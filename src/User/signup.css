@@ -1,0 +1,41 @@
+.signup-page{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1vh;
+    margin-left: 800px;
+}
+.sign-Background{  position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url(../Images/signup.jpg);
+    background-size: cover;
+    z-index: -1;
+}
+.signup-foreground{
+    background-color: rgba(255, 255, 255, 0.8);
+    padding: 20px;
+    border-radius: 8px;
+    width: 40%;
+    margin-left: 50%;
+    margin-top: 10%;
+}
+.signup-foreground input{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    border: 1px solid #ffd6ff;
+  }
+  .signup-foreground button{
+    width: 100%;
+    background-color: #9c89b8;
+    border-radius: 4px;
+    padding: 10px;
+    color: #231942;
+  }
+  .clickme{
+    display: flex;
+  }
