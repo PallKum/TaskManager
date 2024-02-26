@@ -1,5 +1,6 @@
 # TaskTracker
-Application to manage Tasks
+TaskManager is a web application designed to help users manage their tasks effectively. It allows users to create accounts, authenticate themselves, create tasks, and update their tasks. All user information and associated tasks are stored securely in a database.
+<br>
 <H5>Sign-up page:</H5><img width="659" alt="image" src="https://github.com/PallKum/TaskManagerUI/assets/160822819/35781456-a493-48ec-a336-c778f51fc577">
 <h5>Login-page:</h5><img width="658" alt="image" src="https://github.com/PallKum/TaskManagerUI/assets/160822819/b7da8ba2-f9e0-40d7-abfd-de8cdeafc173">
 <h5>Home:</h5><img width="655" alt="image" src="https://github.com/PallKum/TaskManagerUI/assets/160822819/56439a91-7626-446e-a976-f00fdd10fe95">
